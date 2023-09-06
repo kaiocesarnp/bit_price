@@ -7,3 +7,5 @@ Utiliza as bibliotecas 'requests' para acessar a API da Coinbase, 'pywhatkit' pa
 Para utilizá-lo, configure o URL da Coinbase, defina um limite de preço e o número de telefone para receber as mensagens no WhatsApp.
 
 Certifique-se de ter as bibliotecas instaladas e configuradas corretamente para o código funcionar.
+
+![Imagem da Aplicação](bitdados.jpg)
